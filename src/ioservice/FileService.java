@@ -22,7 +22,7 @@ public class FileService {
     
     
     public void setInputFile(){
-           r.setInputFile(file);
+        r.setInputFile(file);
     }
     
     public Object readRecord(String s){

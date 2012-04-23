@@ -11,6 +11,6 @@ public interface FileReader {
     
     public abstract void setInputFile(Map file);
     
-    public Object readRecord(String s);
+    public abstract Object readRecord(String s);
 
 }
